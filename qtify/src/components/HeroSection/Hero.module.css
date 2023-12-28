@@ -1,0 +1,19 @@
+.main{
+    height: 270px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inside{
+    width: 799px;
+    height: 212px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 30px;
+
+}
+
+
